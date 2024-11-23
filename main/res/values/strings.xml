@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyShop</string>
+
+    <string name="first_slide" formatted="true">Choose Your Product</string>
+    <string name="second_slide" formatted="true">Fast Delivery</string>
+    <string name="third_slide" formatted="true">Good Service</string>
+
+    <string name="description" formatted="true">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry. and it is very good text as mentioned in the description box. please pass this project as I really worked hard on this project Thank You!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
